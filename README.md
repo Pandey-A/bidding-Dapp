@@ -156,3 +156,4 @@ For support and questions, please open an issue in the repository.
 # bidding-Dapp
 a
 b
+c
