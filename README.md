@@ -153,18 +153,3 @@ This project is licensed under the MIT License.
 ## Support
 
 For support and questions, please open an issue in the repository.
-# bidding-Dapp
-a
-b
-c
-d
-e
-f
-g
-h
-i
-j
-k
-l
-m
-n
